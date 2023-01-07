@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>recent post &#8211; Diligent Engineering</title>
+	<atom:link href="/category/recent-post/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Wed, 04 Jan 2023 11:44:46 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>Coffee Bean Grade Classifier</title>
+		<link>/coffee-bean-grade-classifier/</link>
+					<comments>/coffee-bean-grade-classifier/#respond</comments>
+		
+		<dc:creator><![CDATA[coffee]]></dc:creator>
+		<pubDate>Tue, 03 Jan 2023 20:32:26 +0000</pubDate>
+				<category><![CDATA[classifier]]></category>
+		<category><![CDATA[recent post]]></category>
+		<guid isPermaLink="false">/?p=347</guid>
+
+					<description><![CDATA[A coffee grade is a quality classification. It tells you what quality classification the coffee has. A coffee grade helps sellers and buyers throughout the globe to align their expectations with each other.&#160;As a result, they provide significant contributions to the development of developing countries&#8217; economies, particularly Ethiopia&#8217;s. Coffee is the most important and the &#8230;<p class="read-more"> <a class="" href="/coffee-bean-grade-classifier/"> <span class="screen-reader-text">Coffee Bean Grade Classifier</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>A coffee grade is a quality classification. It tells you what quality classification the coffee has. A coffee grade helps sellers and buyers throughout the globe to align their expectations with each other.&nbsp;As a result, they provide significant contributions to the development of developing countries&#8217; economies, particularly Ethiopia&#8217;s. </p>
+
+
+
+<p>Coffee is the most important and the backbone of the Ethiopian economy, which accounts for an average of 5% of GDP, 10% of the total agriculture production, and 60% of export earnings. Coffee has always been Ethiopia’s most important cash crop and largest export commodity, accounting for 90% of exports and 80% of total employment. </p>
+
+
+
+<p>Coffee has thus a significant impact on the socio-economic life of the people and economic development of the country. It is estimated that more than 15 million people are directly or indirectly engaged in the production, processing, transport, marketing, trading, and export of coffee. The impact of coffee in Ethiopia is not only national it is also personal.</p>
+
+
+
+<p>Coffee beans are continuously at risk. While still dangling from a tree, insects can damage the seeds. You’ll see small black holes on the surface of the green processed beans. Or you can find broken and chipped beans damaged by processing machines in origin. And, even worse, you may find a full black bean that suffered water deprivation or overfermentation at the farm.&nbsp;Coffee bean quality classification is most often done with the help of humans who pick and count coffee samples to classify coffee quality. But this takes a lot of time and is very bulky. Therefore, we need an intelligent system to classify the quality of coffee beans. This reduces wasted time and the number of experts required to sort coffee beans for quality classification.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img decoding="async" src="/wp-content/uploads/2023/01/PSX_20221205_114147.jpg" alt="" class="wp-image-87" width="482" height="518"/></figure>
+
+
+
+<p>Coffee Grade Classifier product aims to make more efficient coffee bean grade classifier by using digital technology. This project has hardware and software parts. The hardware parts are: High quality camera to capture the image of coffee beans, servo motor and touch sensor to open the entry of the system while the user need to enter the sample of coffee bean, LED light to make the internal body of the system bright as to take high quality image. Arduino microcontroller to control the sensor and actuator of the system and raspberry pi, while it is used for user communication with the device and a model of AI is also deployed on the Raspberry Pi. The software part is the user interface application for displaying the classification results and getting one more parameter from the user.</p>
+
+
+
+<p>Currently, Ethiopia contributes 3.6 percent of the total value and 3 percent of the total quantity of coffee traded to the global market, which leads the country to be the 10th largest exporter of coffee in the world and the first exporter in Africa. 40% of the total coffee production of Ethiopia is exported, which earns 33% of the overall value of agricultural goods exported and 24% of the whole export value of the country (Ministry of Trade, 2013). Over one-third of the population living in the rural areas and over 15 million populations sustain their livelihoods and participated in coffee production. There are around one million coffee growers in the country. It is the first cash crop that the Ethiopia Commodity Exchange (ECX) started trading operations in April 2008 in order to advance coffee markets in the country. To make the qualifying process of coffee been to export need high energy and time. So, our system provides fast and efficient service to classify and grade the standard of coffee bean with high quality when compared to the existing systems.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/coffee-bean-grade-classifier/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
